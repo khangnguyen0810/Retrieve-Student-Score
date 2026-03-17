@@ -40,7 +40,7 @@ pip install selenium beautifulsoup4 webdriver-manager
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/khangnguyen0810/Retrieve-Student-Score.git
    cd your-repo-name
    ```
 
